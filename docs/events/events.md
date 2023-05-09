@@ -1,12 +1,14 @@
 ---
 layout: default
 title: Events
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: /docs/events
 ---
 
 # Events
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
-{: .fs-6 .fw-300 }
+Join us, we have cookies 
+The events are most useful when attending in person, but we try to record whenever is possible. You can also check out our [YouTube channel]
+
+[YouTube channel]: https://www.youtube.com/@user-vh1up6ev5f

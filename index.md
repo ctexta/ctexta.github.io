@@ -1,6 +1,9 @@
 ---
 title: Home
 layout: home
+nav_order: 1
+description: "Computational Text Analysis Team @TAD"
+permalink: /
 ---
 Dear all,<br>
 Welcome to the CTextA team at the Tel-Aviv University Center for Artificial Intelligence and Data Science. <br>
