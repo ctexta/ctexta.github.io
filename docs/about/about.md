@@ -7,3 +7,5 @@ permalink: /docs/about
 ---
 
 # About Us
+
+Feel free to contact us at ctexta.tad at gmail dot com

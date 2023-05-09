@@ -6,7 +6,8 @@ description: "Computational Text Analysis Team @TAD"
 permalink: /
 ---
 
-# Computational Text Analysis Team
+# Computational Text Analysis Team @TAD
+<br>
 Dear all,<br>
 Welcome to the CTextA team at the Tel-Aviv University Center for Artificial Intelligence and Data Science. <br>
 If you are a researcher in a text-based field in the Humanities, Social sciences and even Healthcare and want to incorporate advanced Natural Language Processing models and techniques in your next paper or grant proposal - we want to collaborate with you! Feel free to [contact us] for any question or idea.<br>
