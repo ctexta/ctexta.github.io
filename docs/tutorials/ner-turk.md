@@ -2,7 +2,7 @@
 layout: default
 title: NER in 16th Century Turkish
 parent: Tutorials
-nav_order: 2
+nav_order: 1
 ---
 
 # Named Entity Recognition in 16th Century Turkish
