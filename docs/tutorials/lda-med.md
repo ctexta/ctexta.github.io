@@ -7,4 +7,4 @@ nav_order: 2
 
 # Topic Modelling with LDA on Medical Forums
 
-content of stuff with from the google colab notebook
+content of stuff with from the google colab notebook - waiting for Semyon's approval
