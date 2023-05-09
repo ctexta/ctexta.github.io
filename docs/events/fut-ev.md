@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Past Events
+title: Upcoming
 parent: Events
 nav_order: 1
 ---
 
 # Upcoming Events
 
-### Hebrew NLP in Law
+### Natural Language Processing in Legal Hebrew
 Invitation: invitation details - registration link - come
