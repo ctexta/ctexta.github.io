@@ -11,5 +11,3 @@ search_enabled: false
 ga_tracking: G-PTRJQKD8BT
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template

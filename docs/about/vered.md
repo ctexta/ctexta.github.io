@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Vered Silber-Varod
+title: Dr. Vered Silber-Varod
 parent: About
 nav_order: 1
 ---
 
-# Vered Silber-Varod
+# Dr. Vered Silber-Varod
 
 content for Vered
