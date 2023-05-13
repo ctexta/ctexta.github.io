@@ -8,3 +8,4 @@ nav_order: 2
 # Stav Klein
 
 content for Stav
+ניסיון לכתוב בעברית בפלטפורמה
