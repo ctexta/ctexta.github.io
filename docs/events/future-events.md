@@ -15,4 +15,4 @@ nav_order: 1
 אירוע פיזי<br>
 </div>
 
-![Invitation](../image/invite.png "Legal NLP in Hebrew")
+<img src="../image/invite.png">
