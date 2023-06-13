@@ -13,6 +13,6 @@ nav_order: 1
 <div  dir="rtl">
 תאריך: 15/6/2023 <br>
 אירוע פיזי<br>
-קישור להרשמה:יפורסם בהמשך
 </div>
 
+![Invitation](../image/invite.png "Legal NLP in Hebrew")
