@@ -2,26 +2,29 @@
 layout: default
 title: Past Events
 parent: Events
+permalink: /docs/past-events
 nav_order: 2
 ---
 
 # Past Events
 
-<div  dir="rtl">
-<h3>ידע מרחבי מקושר – תיוג שמות וקישור לבסיסי נתונים מובנים.</h3>
-מנחה: ד"ר סיני רוסינק, יועצת ומובילת פרויקטים במדעי הרוח הדיגיטליים<br>
-</div>
-<div  dir="rtl">
-בסדנה נלמד בראש ובראשונה כיצד להשתמש בתוכנה רקוגיטו לתיוג, קישור, מיפוי וחילוץ מידע מרחבי (ואחר) מטקסטים:
-נכיר את תחום ה׳גזטירים׳: מילוני העזר לשמות מקומות, ומספר כלים וסביבות עבודה הנוגעים להם.
-למשתתפות.ים תהיה אפשרות להתנסות בתהליך על גבי טקסטים מתחומי המחקר שלהם, שיכינו מראש.<br>
-</div>
-<br>
-<br>
+### Between Algorithms and Law - Natural Language Processing of Legal Hebrew
+A very successful interdisciplinary conference on NLP, Law and Hebrew. In collaboration with Prof. Inbal Yahav from Coller school of management. The conference was held on June 15th, 2023.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0rvKgbRofUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wp5XMjIlNRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Between Algorithms and Law (Youtube playlist)](https://www.youtube.com/playlist?list=PL-KKNaEaalTko6vTiAMmSztkHu8jrnAIj)
+
+### Linked Spatial Knowledge (Recogito) - Name Tagging and DataBase Linkage
+A great workshop by Dr. Sinai Rusinek, consultant and project leader in digital humanities.
+This workshop gives a thorough walkthrough on the popular Recogito program used for tagging, linking, mapping and extracting spatial knowledge from texts. Dr. Rusinek also shows how to work with gazeteers and use their designated tools and frameworks.
+The workshop was held on May 18th 2023.
+
+[Linked Spatial Knowledge (Recogito) - Part 1 (Youtube)](https://www.youtube.com/embed/0rvKgbRofUQ)
+
+[Linked Spatial Knowledge (Recogito) - Part 2 (Youtube)](https://www.youtube.com/embed/Wp5XMjIlNRs)
+
 
 ### Semantic Network Analysis - Detecting Prevailing Themes and Biases
-A workshop by Prof. Elad Segev from the Communication dept. held on April 27th, 2023.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ymp26jh761A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+An interesting workshop by Prof. Elad Segev from the Communication dept. on his tool NeTxt. This workshop was held on April 27th, 2023.
+
+[Semantic Network Analysis (Youtube)](https://www.youtube.com/embed/ymp26jh761A)
+
