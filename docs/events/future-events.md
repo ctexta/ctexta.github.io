@@ -21,7 +21,7 @@ Topics: Introduction to Wikipedia, Wikimedia projects, Wikidata as a case-study 
 
 Topics: Data extraction and querying with SPARQL, managing academic projects on Wikidata and Wikibase.
 
-[**Register Here**](https://docs.google.com/forms/d/e/1FAIpQLSc8OLuFO3FP09c4Yaf-W3RgNhFCLVG1D8Hc6JC1xDeKKK-nOA/viewform?usp=pp_url)
+[**Register Here**](https://docs.google.com/forms/d/e/1FAIpQLSc8OLuFO3FP09c4YAf-W3RgNhFCLVG1D8Hc6JC1xDeKKK-nOA/viewform?usp=pp_url)
 
 For more questions [contact us](mailto:ctexta.tad@gmail.com?cc=shani.even@gmail.com&subject=Semantic%20Networks%20LOD%20Workshop)
 
